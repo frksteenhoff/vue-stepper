@@ -48,5 +48,10 @@ export default {
         next: 'Nästa',
         back: 'Tillbaka',
         finish: 'Skicka'
+    },
+    dk: {
+        next: 'Næste',
+        back: 'Tilbage',
+        finish: 'Afslut'
     }
 }
